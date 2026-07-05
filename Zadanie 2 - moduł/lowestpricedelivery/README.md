@@ -8,6 +8,7 @@ Moduł `lowestpricedelivery` dla PrestaShop'a wyświetla najniższy możliwy kos
 
 - PrestaShop 1.7.x
 - PrestaShop 8.0.x
+- PrestaShop 9.0.x
 
 ## Cechy
 
